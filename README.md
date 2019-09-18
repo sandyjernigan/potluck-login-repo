@@ -1,6 +1,6 @@
 # Corporate Event Planner
 
-## [Deployed with Netlify](https://some-link.netlify.com) --*add link to deploy site*
+## [Deployed with Netlify](#) --*add link to deploy site*
 
 ### Description
 #### Pitch: 

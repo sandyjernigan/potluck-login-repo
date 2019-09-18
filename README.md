@@ -1,6 +1,4 @@
-# Corporate Event Planner
-
-## [Deployed with Netlify](#) --*add link to deploy site*
+# Login Manager Only
 
 ### Description
 #### Pitch: 

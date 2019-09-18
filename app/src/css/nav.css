@@ -1,0 +1,20 @@
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: white;
+}
+
+nav a:hover {
+  margin: 10px;
+  color: gold;
+  transform: scale(1.05);
+}
+  
+button {
+  margin: 5px;
+}
